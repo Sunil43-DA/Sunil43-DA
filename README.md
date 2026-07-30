@@ -1,16 +1,92 @@
-## Hi there 👋
+# Hi 👋 I'm Sunil Reddy
 
-<!--
-**Sunil43-DA/Sunil43-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer | AWS | PySpark | SQL | Python
 
-Here are some ideas to get you started:
+I'm a passionate Data Engineer with over 3 years of experience designing and building scalable data pipelines and cloud-based data platforms. I enjoy transforming raw data into reliable, high-quality datasets that support analytics and business decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 📍 Based in the United Kingdom
+- ☁️ AWS Data Engineering
+- 🐍 Python & PySpark
+- 🗄 SQL & Data Warehousing
+- 📊 ETL Pipeline Development
+- 🏗 Medallion Architecture
+- 🔄 Workflow Automation
+- 📈 Data Analytics
+
+---
+
+## 🛠 Technical Skills
+
+### Cloud
+
+- AWS Glue
+- Amazon S3
+- Amazon Athena
+- AWS Step Functions
+- Amazon EventBridge
+- Amazon SNS
+- Amazon CloudWatch
+- AWS Glue Crawlers
+- AWS Glue Data Catalog
+
+### Programming
+
+- Python
+- PySpark
+- SQL
+
+### Data Engineering
+
+- ETL Pipelines
+- Medallion Architecture
+- SCD Type 2
+- Incremental Processing
+- Data Quality Validation
+- Parquet
+- Data Warehousing
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Featured Project
+
+### AWS Customer Data Platform
+
+Production-style Customer Data Platform built using AWS services.
+
+### Features
+
+- Bronze, Silver & Gold Medallion Architecture
+- AWS Glue ETL
+- PySpark
+- SCD Type 2
+- Incremental Processing
+- AWS Step Functions
+- EventBridge Scheduling
+- Amazon SNS Notifications
+- CloudWatch Monitoring
+- Athena Analytics
+
+🔗 Repository:
+
+https://github.com/Sunil43-DA/aws-customer-data-platform-medallion-architecture
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Sunil43-DA
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-URL
+
+---
+
+⭐ Thank you for visiting my profile!
