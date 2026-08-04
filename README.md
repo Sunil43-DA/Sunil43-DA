@@ -1,172 +1,176 @@
 # Hi there 👋 I'm Sunil Narayanareddy
 
-## 🚀 Data Engineer | Backend Developer | Business Intelligence Developer
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![PySpark](https://img.shields.io/badge/PySpark-Apache%20Spark-orange?logo=apachespark)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Databricks](https://img.shields.io/badge/Databricks-Community-red?logo=databricks)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=powerbi)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?logo=microsoftsqlserver)
 
-I'm a Data Engineer and Backend Developer with **3+ years of professional experience** building scalable data solutions, cloud-based ETL pipelines, RESTful APIs, and interactive business intelligence dashboards.
+# Hi, I'm Sunil Narayanareddy 👋
 
-My expertise spans **AWS Data Engineering**, **ASP.NET Core Web API**, **SQL Server**, **Python**, **PySpark**, **Power BI**, and modern software engineering practices. I enjoy designing reliable data platforms, developing secure backend services, and transforming complex datasets into meaningful business insights.
+## Data Engineer | AWS | PySpark | SQL | Python
+
+I'm a Data Engineer with **3+ years of professional experience** designing scalable ETL pipelines, building cloud-based data platforms, and developing analytics solutions.
+
+My expertise includes **AWS Data Engineering, Databricks, PySpark, SQL, Python, Power BI, and ASP.NET Core**, with a strong focus on delivering reliable, high-quality data for analytics and business decision-making.
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
 - 🇬🇧 Based in the United Kingdom
 - ☁️ AWS Data Engineering
-- 💻 ASP.NET Core Backend Development
-- 📊 Business Intelligence & Power BI
-- 🐍 Python & PySpark
+- 🔥 Databricks & PySpark
 - 🗄 SQL Server & Data Warehousing
-- 🔄 ETL Pipeline Development
-- 📈 Data Analytics
-- 🚀 Passionate about Cloud, Data Engineering & AI
+- 📊 Power BI & Business Intelligence
+- 💻 ASP.NET Core Web API
+- 🔄 ETL & ELT Pipelines
+- 🚀 Passionate about Data Engineering, Cloud and AI
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Tech Stack
 
-## Programming Languages
+### Languages
 
 - Python
-- C#
 - SQL
+- C#
 
----
-
-## Cloud Platforms
-
-### AWS
+### Cloud
 
 - AWS Glue
 - Amazon S3
 - Athena
-- EventBridge
 - Step Functions
+- EventBridge
 - SNS
 - CloudWatch
 - Glue Crawlers
 - Glue Data Catalog
 
----
+### Data Engineering
 
-## Backend Development
+- PySpark
+- Databricks
+- Medallion Architecture
+- Delta Lake
+- SCD Type 2
+- ETL / ELT Pipelines
+- Parquet
+- Data Quality Validation
 
-- ASP.NET Core 8 Web API
-- REST APIs
+### Backend
+
+- ASP.NET Core Web API
 - Entity Framework Core
 - JWT Authentication
-- Refresh Tokens
 - Repository Pattern
-- Unit of Work
 - Dependency Injection
 - AutoMapper
 - FluentValidation
-- Serilog
 
----
-
-## Databases
-
-- SQL Server
-- Amazon S3 (Data Lake)
-- Athena
-- Data Warehousing
-
----
-
-## Data Engineering
-
-- ETL Pipelines
-- ELT Pipelines
-- PySpark
-- Medallion Architecture
-- Bronze / Silver / Gold Layers
-- SCD Type 2
-- Incremental Processing
-- Data Quality Validation
-- Parquet
-
----
-
-## Business Intelligence
+### Business Intelligence
 
 - Power BI
 - DAX
 - Power Query
 - Dashboard Development
-- KPI Reporting
 
----
+### Databases
 
-## Tools
+- SQL Server
+- Amazon S3
+- Athena
+
+### Tools
 
 - Git
 - GitHub
 - VS Code
-- SQL Server Management Studio
 - Swagger
+- SQL Server Management Studio
 
 ---
 
 # 🚀 Featured Projects
 
-## 🟢 Employee Leave Management System
+## 🔶 Databricks Medallion ETL Pipeline
 
-Enterprise-style RESTful Web API built using ASP.NET Core 8.
+Built an end-to-end ETL pipeline using Databricks Community Edition and PySpark following the Bronze → Silver → Gold Medallion Architecture.
 
-### Technologies
+**Highlights**
 
-- ASP.NET Core 8
-- SQL Server
-- Entity Framework Core
-- JWT Authentication
-- Refresh Tokens
-- Repository Pattern
-- Unit of Work
-- AutoMapper
-- FluentValidation
-- Serilog
-- Swagger
-- Power BI
+- CSV → Parquet ETL
+- PySpark DataFrames
+- Bronze, Silver & Gold Layers
+- Business Aggregations
+- Data Cleaning & Transformation
 
-🔗 Repository
-
-https://github.com/Sunil43-DA/EmployeeLeaveManagementSystem
+🔗 https://github.com/Sunil43-DA/databricks-medallion-etl
 
 ---
 
-## 🟠 AWS Customer Data Platform
+## 🔷 AWS Customer Data Platform
 
-Production-style AWS Data Engineering project implementing a Medallion Architecture.
+Production-style AWS Data Engineering project implementing Medallion Architecture using AWS services.
 
-### Technologies
+**Technologies**
 
 - AWS Glue
 - PySpark
 - S3
 - Athena
-- EventBridge
 - Step Functions
-- SNS
+- EventBridge
 - CloudWatch
+- SNS
 - SCD Type 2
 
-🔗 Repository
-
-https://github.com/Sunil43-DA/aws-customer-data-platform-medallion-architecture
+🔗 https://github.com/Sunil43-DA/aws-customer-data-platform-medallion-architecture
 
 ---
 
-# 📫 Connect with Me
+## 🟢 Employee Leave Management System
 
-### GitHub
+Enterprise REST API built using ASP.NET Core 8.
 
-https://github.com/Sunil43-DA
+**Features**
 
-### LinkedIn
+- JWT Authentication
+- Refresh Tokens
+- Entity Framework Core
+- Repository Pattern
+- FluentValidation
+- Serilog
+- Swagger
+
+🔗 https://github.com/Sunil43-DA/EmployeeLeaveManagementSystem
+
+---
+
+# 📜 Certifications
+
+- AWS Cloud Practitioner Essentials
+- IBM Machine Learning with Python
+- Microsoft Power BI
+- Simplilearn Power BI
+
+---
+
+# 🤝 Connect with Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn
 
 https://www.linkedin.com/in/sunil-reddy-35aa203ab
 
+💻 GitHub
+
+https://github.com/Sunil43-DA
+
 ---
 
-⭐ Thanks for visiting my GitHub profile!
-Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
