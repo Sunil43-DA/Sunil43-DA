@@ -161,7 +161,7 @@ Enterprise REST API built using ASP.NET Core 8.
 
 # 🤝 Connect with Me
 
-📧 Email: your-email@example.com
+📧 Email: sunil.reddy43@outlook.com
 
 💼 LinkedIn
 
