@@ -1,19 +1,10 @@
 # Hi there 👋 I'm Sunil Narayanareddy
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![PySpark](https://img.shields.io/badge/PySpark-Apache%20Spark-orange?logo=apachespark)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
-![Databricks](https://img.shields.io/badge/Databricks-Community-red?logo=databricks)
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=powerbi)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?logo=microsoftsqlserver)
+## Data Engineer | Snowflake | AWS | PySpark | SQL | Python
 
-# Hi, I'm Sunil Narayanareddy 👋
+I'm a Data Engineer with **3+ years of professional experience** building ETL/ELT pipelines, cloud data platforms, data transformation workflows, and analytics solutions.
 
-## Data Engineer | AWS | PySpark | SQL | Python
-
-I'm a Data Engineer with **3+ years of professional experience** designing scalable ETL pipelines, building cloud-based data platforms, and developing analytics solutions.
-
-My expertise includes **AWS Data Engineering, Databricks, PySpark, SQL, Python, Power BI, and ASP.NET Core**, with a strong focus on delivering reliable, high-quality data for analytics and business decision-making.
+My experience includes **Snowflake, AWS Data Engineering, Databricks, PySpark, SQL, Python, Power BI, and cloud-based data platforms**, with a strong focus on building reliable, scalable and high-quality data pipelines.
 
 ---
 
@@ -21,12 +12,14 @@ My expertise includes **AWS Data Engineering, Databricks, PySpark, SQL, Python, 
 
 - 🇬🇧 Based in the United Kingdom
 - ☁️ AWS Data Engineering
+- ❄️ Snowflake Data Engineering
 - 🔥 Databricks & PySpark
-- 🗄 SQL Server & Data Warehousing
+- 🗄 SQL & Data Warehousing
 - 📊 Power BI & Business Intelligence
-- 💻 ASP.NET Core Web API
-- 🔄 ETL & ELT Pipelines
-- 🚀 Passionate about Data Engineering, Cloud and AI
+- 🔄 ETL / ELT Pipelines
+- 🧩 Medallion Architecture
+- 📚 SCD Type 2 & Change Data Capture
+- 🚀 Interested in Cloud Data Engineering, Data Platforms and AI
 
 ---
 
@@ -38,38 +31,35 @@ My expertise includes **AWS Data Engineering, Databricks, PySpark, SQL, Python, 
 - SQL
 - C#
 
-### Cloud
+### Cloud & Data Platforms
 
+- Snowflake
+- AWS
 - AWS Glue
 - Amazon S3
-- Athena
-- Step Functions
-- EventBridge
-- SNS
-- CloudWatch
+- Amazon Athena
+- AWS Step Functions
+- Amazon EventBridge
+- Amazon SNS
+- Amazon CloudWatch
+- AWS Glue Data Catalog
 - Glue Crawlers
-- Glue Data Catalog
 
 ### Data Engineering
 
 - PySpark
 - Databricks
+- Snowflake SQL
 - Medallion Architecture
 - Delta Lake
 - SCD Type 2
+- Change Data Capture
+- Snowflake Streams
+- Snowflake Tasks
+- MERGE / Incremental Processing
 - ETL / ELT Pipelines
 - Parquet
 - Data Quality Validation
-
-### Backend
-
-- ASP.NET Core Web API
-- Entity Framework Core
-- JWT Authentication
-- Repository Pattern
-- Dependency Injection
-- AutoMapper
-- FluentValidation
 
 ### Business Intelligence
 
@@ -81,8 +71,18 @@ My expertise includes **AWS Data Engineering, Databricks, PySpark, SQL, Python, 
 ### Databases
 
 - SQL Server
-- Amazon S3
-- Athena
+- Snowflake
+- Amazon Athena
+
+### Backend
+
+- ASP.NET Core Web API
+- Entity Framework Core
+- JWT Authentication
+- Repository Pattern
+- Dependency Injection
+- AutoMapper
+- FluentValidation
 
 ### Tools
 
@@ -94,21 +94,34 @@ My expertise includes **AWS Data Engineering, Databricks, PySpark, SQL, Python, 
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Data Engineering Projects
 
-## 🔶 Databricks Medallion ETL Pipeline
+## ❄️ Snowflake Retail Data Platform
 
-Built an end-to-end ETL pipeline using Databricks Community Edition and PySpark following the Bronze → Silver → Gold Medallion Architecture.
+End-to-end retail data engineering platform built using Snowflake and Medallion Architecture.
 
 **Highlights**
 
-- CSV → Parquet ETL
-- PySpark DataFrames
-- Bronze, Silver & Gold Layers
-- Business Aggregations
-- Data Cleaning & Transformation
+- Snowflake Internal Stages & `COPY INTO`
+- Bronze → Silver → Gold Architecture
+- SQL Data Transformation
+- Incremental Processing using `MERGE`
+- SCD Type 2 Product Price History
+- Snowflake Streams for Change Data Capture
+- Snowflake Tasks for Scheduled Processing
+- Gold-layer Business Analytics
+- Revenue Reconciliation
+- Data Quality & Layer Validation
 
-🔗 https://github.com/Sunil43-DA/databricks-medallion-etl
+**Data Processed**
+
+- 1,000 Customers
+- 320 Products
+- 20 Stores
+- 10,000 Orders
+- 19,919 Order Items
+
+🔗 [View Snowflake Retail Data Platform](https://github.com/Sunil43-DA/snowflake-retail-data-platform)
 
 ---
 
@@ -120,7 +133,7 @@ Production-style AWS Data Engineering project implementing Medallion Architectur
 
 - AWS Glue
 - PySpark
-- S3
+- Amazon S3
 - Athena
 - Step Functions
 - EventBridge
@@ -128,7 +141,24 @@ Production-style AWS Data Engineering project implementing Medallion Architectur
 - SNS
 - SCD Type 2
 
-🔗 https://github.com/Sunil43-DA/aws-customer-data-platform-medallion-architecture
+🔗 [View AWS Customer Data Platform](https://github.com/Sunil43-DA/aws-customer-data-platform-medallion-architecture)
+
+---
+
+## 🔶 Databricks Medallion ETL Pipeline
+
+End-to-end ETL pipeline using Databricks Community Edition and PySpark following the Bronze → Silver → Gold architecture.
+
+**Highlights**
+
+- CSV → Parquet ETL
+- PySpark DataFrames
+- Bronze, Silver & Gold Layers
+- Data Cleaning & Transformation
+- Business Aggregations
+- Delta Lake
+
+🔗 [View Databricks Medallion ETL](https://github.com/Sunil43-DA/databricks-medallion-etl)
 
 ---
 
@@ -146,37 +176,25 @@ Enterprise REST API built using ASP.NET Core 8.
 - Serilog
 - Swagger
 
-🔗 https://github.com/Sunil43-DA/EmployeeLeaveManagementSystem
+🔗 [View Employee Leave Management System](https://github.com/Sunil43-DA/EmployeeLeaveManagementSystem)
 
 ---
 
-# 📜 Certifications
+# 📊 Data Engineering Focus
 
-- AWS Cloud Practitioner Essentials
-- IBM Machine Learning with Python
-- Microsoft Power BI
-- Simplilearn Power BI
+I'm particularly interested in building and working with:
 
----
-
-# 🤝 Connect with Me
-
-📧 Email: sunil.reddy43@outlook.com
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/sunil-reddy-35aa203ab
-
-💻 GitHub
-
-https://github.com/Sunil43-DA
-
-## 🌐 Portfolio
-
-**Live Website**
-
-👉 https://sunil-narayanareddy.netlify.app
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+```text
+Cloud Data Platforms
+       ↓
+Data Ingestion
+       ↓
+ETL / ELT Pipelines
+       ↓
+Data Transformation
+       ↓
+Data Warehousing
+       ↓
+Data Quality
+       ↓
+Business Analytics
