@@ -493,7 +493,7 @@ I'm interested in opportunities involving:
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/sunil-n-6ab738428)
+- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/sunil-narayanareddy-35aa203ab)
 - 🐙 GitHub: [Sunil43-DA](https://github.com/Sunil43-DA)
 
 ---
