@@ -19,6 +19,7 @@ My experience includes **Snowflake, AWS Data Engineering, Databricks, PySpark, S
 - 🔄 ETL / ELT Pipelines
 - 🧩 Medallion Architecture
 - 📚 SCD Type 2 & Change Data Capture
+- 🤖 Agentic AI & LLM-powered Data Engineering
 - 🚀 Interested in Cloud Data Engineering, Data Platforms and AI
 
 ---
@@ -61,6 +62,16 @@ My experience includes **Snowflake, AWS Data Engineering, Databricks, PySpark, S
 - Parquet
 - Data Quality Validation
 
+### AI & Agentic Engineering
+
+- LangGraph
+- Groq
+- LLM Integration
+- Agentic Workflows
+- LLM-based Decision Making
+- AI-assisted Data Quality
+- Python-based Data Engineering Tools
+
 ### Business Intelligence
 
 - Power BI
@@ -73,6 +84,7 @@ My experience includes **Snowflake, AWS Data Engineering, Databricks, PySpark, S
 - SQL Server
 - Snowflake
 - Amazon Athena
+- SQLite
 
 ### Backend
 
@@ -96,105 +108,42 @@ My experience includes **Snowflake, AWS Data Engineering, Databricks, PySpark, S
 
 # 🚀 Featured Data Engineering Projects
 
-## ❄️ Snowflake Retail Data Platform
+## 🤖 AI Data Engineering Agent
 
-End-to-end retail data engineering platform built using Snowflake and Medallion Architecture.
-
-**Highlights**
-
-- Snowflake Internal Stages & `COPY INTO`
-- Bronze → Silver → Gold Architecture
-- SQL Data Transformation
-- Incremental Processing using `MERGE`
-- SCD Type 2 Product Price History
-- Snowflake Streams for Change Data Capture
-- Snowflake Tasks for Scheduled Processing
-- Gold-layer Business Analytics
-- Revenue Reconciliation
-- Data Quality & Layer Validation
-
-**Data Processed**
-
-- 1,000 Customers
-- 320 Products
-- 20 Stores
-- 10,000 Orders
-- 19,919 Order Items
-
-🔗 [View Snowflake Retail Data Platform](https://github.com/Sunil43-DA/snowflake-retail-data-platform)
-
----
-
-## 🔷 AWS Customer Data Platform
-
-Production-style AWS Data Engineering project implementing Medallion Architecture using AWS services.
-
-**Technologies**
-
-- AWS Glue
-- PySpark
-- Amazon S3
-- Athena
-- Step Functions
-- EventBridge
-- CloudWatch
-- SNS
-- SCD Type 2
-
-🔗 [View AWS Customer Data Platform](https://github.com/Sunil43-DA/aws-customer-data-platform-medallion-architecture)
-
----
-
-## 🔶 Databricks Medallion ETL Pipeline
-
-End-to-end ETL pipeline using Databricks Community Edition and PySpark following the Bronze → Silver → Gold architecture.
+Agentic data engineering pipeline that combines **LLM reasoning with deterministic Python data engineering tools** to analyse, validate, clean, verify and store customer data.
 
 **Highlights**
 
-- CSV → Parquet ETL
-- PySpark DataFrames
-- Bronze, Silver & Gold Layers
-- Data Cleaning & Transformation
-- Business Aggregations
-- Delta Lake
+- LangGraph state-driven workflow
+- Groq LLM reasoning
+- Automated schema analysis
+- Data-quality assessment
+- Deterministic data cleaning
+- Data verification
+- Conditional workflow routing
+- Recovery and retry handling
+- SQLite database loading
+- SQL-based validation
+- Audit logging
+- Error handling and failure testing
 
-🔗 [View Databricks Medallion ETL](https://github.com/Sunil43-DA/databricks-medallion-etl)
-
----
-
-## 🟢 Employee Leave Management System
-
-Enterprise REST API built using ASP.NET Core 8.
-
-**Features**
-
-- JWT Authentication
-- Refresh Tokens
-- Entity Framework Core
-- Repository Pattern
-- FluentValidation
-- Serilog
-- Swagger
-
-🔗 [View Employee Leave Management System](https://github.com/Sunil43-DA/EmployeeLeaveManagementSystem)
-
----
-
-# 📊 Data Engineering Focus
-
-I'm particularly interested in building and working with:
+**Pipeline**
 
 ```text
-Cloud Data Platforms
-       ↓
-Data Ingestion
-       ↓
-ETL / ELT Pipelines
-       ↓
-Data Transformation
-       ↓
-Data Warehousing
-       ↓
-Data Quality
-       ↓
-Business Analytics
+CSV Input
+    ↓
+Schema Analysis
+    ↓
+Data Quality Assessment
+    ↓
+LLM Reasoning
+    ↓
+Conditional Routing
+    ↓
+Data Cleaning
+    ↓
+Verification
+    ↓
+SQLite Database
+    ↓
+SQL Validation
